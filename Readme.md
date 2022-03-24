@@ -1,4 +1,4 @@
-# ᴛᴜғᴀᴀɴ sᴘᴀᴍᴇʀs
+# 💥 ᴛᴜғᴀᴀɴ 💞 sᴘᴀᴍᴇʀs 💐
 
 <p align="center">
   <img src="https://te.legra.ph/file/72b8500b85d0c4798c6d5.jpg">
@@ -9,3 +9,13 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
+
+# 🌸 ᴅᴇᴠᴇʟᴏᴘᴇʀ ✨
+
+[~sʜᴀɪʟᴇɴᴅʀᴀ](https://t.me/Shailendra34
+
+
+# ⭐ ᴏᴡɴᴇʀ ⚡
+
+
+~ RUDRA
