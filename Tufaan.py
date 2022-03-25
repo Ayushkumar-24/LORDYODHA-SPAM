@@ -873,7 +873,7 @@ async def _(e):
             await e.reply(usage, parse_mode=None, link_preview=None )
             
 
-USTAD_PIC = "https://telegra.ph/file/d1fe6a680ac1b555574d8.jpg"
+USTAD_PIC = "https://te.legra.ph/file/72b62b91b81e2c1313474.jpg"
 @idk.on(events.NewMessage(incoming=True, pattern=r"\.alive"))
 @ydk.on(events.NewMessage(incoming=True, pattern=r"\.alive"))
 @wdk.on(events.NewMessage(incoming=True, pattern=r"\.alive"))
