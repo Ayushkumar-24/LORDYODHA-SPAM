@@ -1,7 +1,7 @@
 # 💥 ᴛᴜғᴀᴀɴ 💞 sᴘᴀᴍᴇʀs 💐
 
 <p align="center">
-  <img src="https://te.legra.ph/file/72b8500b85d0c4798c6d5.jpg">
+  <img src="https://telegra.ph/file/f83154976190896c8f66a.jpg">
 </p>
 
 
@@ -12,10 +12,10 @@
 
 # 🌸 ᴅᴇᴠᴇʟᴏᴘᴇʀ ✨
 
-[~sʜᴀɪʟᴇɴᴅʀᴀ](https://t.me/Shailendra34) 
+[~sʜᴀɪʟᴇɴᴅʀᴀ](https://t.me/its_heaven_king) 
 
 
 # ⭐ ᴏᴡɴᴇʀ ⚡
 
 
-### ~ RUDRA
+### ~ kaal
