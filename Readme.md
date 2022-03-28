@@ -1,4 +1,4 @@
-# 💥 ᴛᴜғᴀᴀɴ 💞 sᴘᴀᴍᴇʀs 💐
+# 💥 𝐊𝐀𝐀𝐋 💞 sᴘᴀᴍᴇʀs 💐
 
 <p align="center">
   <img src="https://telegra.ph/file/f83154976190896c8f66a.jpg">
