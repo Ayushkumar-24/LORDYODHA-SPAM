@@ -1,7 +1,7 @@
 {
-  "name": "𝐓𝐮𝐟𝐚𝐚𝐧 𝐒𝐩𝐚𝐦 𝐔𝐬𝐞𝐫𝐛𝐨𝐭𝐬",
+  "name": "𝐤𝐚𝐚𝐥 𝐒𝐩𝐚𝐦 𝐔𝐬𝐞𝐫𝐛𝐨𝐭𝐬",
   "description": "ᴀ ᴘᴏᴡᴇʀғᴜʟʟ ᴀɴᴅ ғᴀsᴛ sᴘᴀᴍ ʙᴏᴛ...",
-  "logo": "https://te.legra.ph/file/72b8500b85d0c4798c6d5.jpg",
+  "logo": "https://telegra.ph/file/f83154976190896c8f66a.jpg",
   "keywords": [
     "telegram",
     "userbot"
@@ -134,17 +134,17 @@
       },
       "API_ID": {
         "description": "Telethon String Session",
-        "value": "11280680",
+        "value": "5056243",
         "required": true
       },
       "API_HASH": {
         "description": "Api Hash",
-        "value": "3397c59f3d6961e43121d373257dbff8",
+        "value": "bca20d3b84de3c45b34e5716279b93b5",
         "required": true
       },
       "SUDO": {
         "description": "Sudo Users Id",
-        "value": "1511095236",
+        "value": "1783702093",
         "required": true
       }
   },
